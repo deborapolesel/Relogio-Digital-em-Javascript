@@ -1,0 +1,14 @@
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+#clock {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 5em;
+    color: rgb(76, 151, 1);
+}
